@@ -1,5 +1,10 @@
 ## Welcome to GitHub Pages
 
+#### Growth mindset in my own words
+
+-A challenge and also the future
+
+
 You can use the [editor on GitHub](https://github.com/SophiaG20/reading-notes01-102d40/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
