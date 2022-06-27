@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to Sophia's Markdown Heavy reading-nptes01-102d40 Page
+
+#LetUsGrow
+
+## Shout out to @Google @Apple @CodeFellows @Zoom @REMO
 
 #### Growth mindset in my own words
 
@@ -15,12 +19,10 @@ Reminders for me to continue to grow
 
 My Git HUb site is @ https://github.com/SophiaG20
 
-THANK YOU @zhoug0x For inspiring me to code for Realzies
+**THANK YOU @zhoug0x For inspiring me to code for Realzies**
 You can use the [editor on GitHub](https://github.com/SophiaG20/reading-notes01-102d40/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+----------------------------------------------------------------------------------------------------------
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
