@@ -17,7 +17,7 @@ Reminders for me to continue to grow
 3. The universe is on our side: The time is NOW!
 
 
-My Git HUb site is @ https://github.com/SophiaG20
+**[Please follow me on my Github profile](https://github.com/SophiaG20)**
 
 **THANK YOU @zhoug0x For inspiring me to code for Realzies**
 You can use the [editor on GitHub](https://github.com/SophiaG20/reading-notes01-102d40/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
