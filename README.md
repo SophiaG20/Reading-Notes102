@@ -14,9 +14,9 @@
 
 Reminders for me to continue to grow
 
-### > ***1. Put on my oxygen mask first: If Sophia is not okay, I cannot grow***
-### > ***2. There is help everywhere, I just need to think about why? and then How will come soon***
-### > ***3. The universe is on our side: The time is NOW!***
+> ###  ***1. Put on my oxygen mask first: If Sophia is not okay, I cannot grow***
+> ### > ***2. There is help everywhere, I just need to think about why? and then How will come soon***
+> ### > ***3. The universe is on our side: The time is NOW!***
 
 
 **[Please follow me on my Github profile](https://github.com/SophiaG20)**
