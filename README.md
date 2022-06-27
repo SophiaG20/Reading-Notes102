@@ -12,6 +12,8 @@ Reminders for me to continue to grow
 2. There is help everywhere, I just need to think about why? and then How will come
 3. The universe is on our side: The time is NOW!
 
+
+My Git HUb site is @ https://github.com/SophiaG20
 You can use the [editor on GitHub](https://github.com/SophiaG20/reading-notes01-102d40/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
