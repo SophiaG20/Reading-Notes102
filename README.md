@@ -4,7 +4,7 @@
 ## **LetUsCodeTogether**
 ### **ROTP for LIFE**
 
-# Shout out to **@Google** **@Apple** **@CodeFellows** **@Zoom** **@REMO**
+#### Shout out to **@Google** **@Apple** **@CodeFellows** **@Zoom** **@REMO**
 
 # **Growth mindset in my own words:**
 
