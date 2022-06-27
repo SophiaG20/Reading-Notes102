@@ -1,10 +1,10 @@
-## Welcome to Sophia's Markdown Heavy reading-nptes01-102d40 Page
+## Welcome to Sophia's Markdown Heavy reading-notes01-102d40 Page
 
 #LetUsGrow
 
 ## Shout out to @Google @Apple @CodeFellows @Zoom @REMO
 
-#### Growth mindset in my own words
+#### Growth mindset in my own words:
 
 -A challenge and also the future
 -Growth mindset is essential to enjoying this class Versus failing it
