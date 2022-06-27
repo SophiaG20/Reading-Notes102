@@ -1,5 +1,7 @@
 # Welcome to Sophia's Markdown reading-notes01-102d40 Page
 
+![Alive in living colour]([https://myoctocat.com/assets/images/base-octocat.sv](https://secure.gravatar.com/avatar/503c16ec5fd69573e356a9a6689a73b7?s=160&d=identicon&r=g)3
+
 # **LetUsGrowTogether**
 ## **LetUsCodeTogether**
 ### **ROTP for LIFE**
@@ -12,7 +14,7 @@
 > ###  ***-Growth mindset is essential to enjoying this class Versus failing it***
 > ###  ***-Growth Minset is a journey not a Milestone***
 
-Reminders for me to continue to grow
+# **Mantras to continue to grow**
 
 > ###  ***1. Put on my oxygen mask first: If Sophia is not okay, I cannot grow***
 > ###  ***2. There is help everywhere, I just need to think about why? and then How will come soon***
@@ -22,9 +24,10 @@ Reminders for me to continue to grow
 **[Please follow me on my Github profile](https://github.com/SophiaG20)**
 
 **THANK YOU @zhoug0x For inspiring me to code for Realzies**
-You can use the [editor on GitHub](https://github.com/SophiaG20/reading-notes01-102d40/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+
 
 ----------------------------------------------------------------------------------------------------------
+You can use the [editor on GitHub](https://github.com/SophiaG20/reading-notes01-102d40/edit/main/README.md) to maintain and preview the content for your website in Markdown files. 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
