@@ -1,6 +1,7 @@
 # Welcome to Sophia's Markdown reading-notes01-102d40 Page
 
-![Alive in living colour]([https://myoctocat.com/assets/images/base-octocat.sv](https://secure.gravatar.com/avatar/503c16ec5fd69573e356a9a6689a73b7?s=160&d=identicon&r=g)3
+SophiaG20
+![904570DF-F4C8-44B2-A529-403415DA5763_1_105_c](https://user-images.githubusercontent.com/88021419/176017446-982c9290-1a43-41b4-afd1-8dadb99958ea.jpeg)
 
 # **LetUsGrowTogether**
 ## **LetUsCodeTogether**
