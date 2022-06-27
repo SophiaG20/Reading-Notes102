@@ -6,7 +6,7 @@
 
 # Shout out to **@Google** **@Apple** **@CodeFellows** **@Zoom** **@REMO**
 
-#### Growth mindset in my own words:
+# **Growth mindset in my own words:**
 
 ###  > ***-A challenge and also the future***
 ### > ***-Growth mindset is essential to enjoying this class Versus failing it***
