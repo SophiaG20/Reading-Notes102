@@ -3,7 +3,14 @@
 #### Growth mindset in my own words
 
 -A challenge and also the future
+-Growth mindset is essential to enjoying this class Versus failing it
+-Growth Minset is a journey not a Milestone
 
+Reminders for me to continue to grow
+
+1. Put on my oxygen mask first: If Sophia is not okay, I cannot grow
+2. There is help everywhere, I just need to think about why? and then How will come
+3. The universe is on our side: The time is NOW!
 
 You can use the [editor on GitHub](https://github.com/SophiaG20/reading-notes01-102d40/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
