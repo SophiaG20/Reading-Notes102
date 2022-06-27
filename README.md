@@ -8,15 +8,15 @@
 
 #### Growth mindset in my own words:
 
-###  -A challenge and also the future
-### -Growth mindset is essential to enjoying this class Versus failing it
-### -Growth Minset is a journey not a Milestone
+###  > ***-A challenge and also the future***
+### > ***-Growth mindset is essential to enjoying this class Versus failing it***
+### > ***-Growth Minset is a journey not a Milestone***
 
 Reminders for me to continue to grow
 
-### 1. Put on my oxygen mask first: If Sophia is not okay, I cannot grow
-### 2. There is help everywhere, I just need to think about why? and then How will come
-### 3. The universe is on our side: The time is NOW!
+### > ***1. Put on my oxygen mask first: If Sophia is not okay, I cannot grow***
+### > ***2. There is help everywhere, I just need to think about why? and then How will come soon***
+### > ***3. The universe is on our side: The time is NOW!***
 
 
 **[Please follow me on my Github profile](https://github.com/SophiaG20)**
