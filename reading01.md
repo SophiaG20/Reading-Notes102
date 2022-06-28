@@ -14,6 +14,3 @@
 ## [Please follow me on GITHUB](https://github.com/SophiaG20)
 
 # [Check out my Website with Web3 stuff on WoRdPrEsS](https://sophiag20.com/)
-
-'dragonfly'
-&dragonfly
