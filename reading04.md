@@ -1,0 +1,6 @@
+ SophiaG20 on HTML
+ 
+ -HTML is NOT Hot Tame Mad Lambo
+ -This is a easier language and is the skeleton of the internet
+ -head and header are not the same
+ -you need to open and close the tag
