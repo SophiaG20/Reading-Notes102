@@ -8,3 +8,8 @@
 - [Class 7 Programming with Javascript](reading07.md)
 - [Class 8 Operators and Loops](reading08.md)
 
+-Do not confuse JavaScript with Java programming language
+-I stuggle with JavaScript in websites because my name is Grzeskowiak-Amezquita and sometimes the characters are too long
+-Any Text editor can be used with JavaScript
+-You can wither embed tge JavaScript or you can put it directly into the HTML file, that wille include the external JavaScript file
+-JavaScript is a very touchy language. It barely takes anything for it to go wrong
