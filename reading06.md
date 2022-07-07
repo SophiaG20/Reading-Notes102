@@ -13,3 +13,4 @@
 -Any Text editor can be used with JavaScript
 -You can wither embed tge JavaScript or you can put it directly into the HTML file, that wille include the external JavaScript file
 -JavaScript is a very touchy language. It barely takes anything for it to go wrong
+-my last name has never been common in JavaScript 
