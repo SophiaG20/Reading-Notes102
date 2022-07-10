@@ -7,3 +7,9 @@
 - [Class 6 Javascript Basics](reading06.md)
 - [Class 7 Programming with Javascript](reading07.md)
 - [Class 8 Operators and Loops](reading08.md)
+
+-There is a certainly easy way to do JavaScript that is tedius and there is a shortcut to JavaScript that can save time but also very accident prone
+-checking the right character choices is going to make or break you here
+-While CSS might be the beauty of a website JavaScript is the magic
+-When you go on a website and it asks for your e-mail for a newsletter: that is JavaScript
+-to work with JavaScript you will need familiarity with HTML and CSS
